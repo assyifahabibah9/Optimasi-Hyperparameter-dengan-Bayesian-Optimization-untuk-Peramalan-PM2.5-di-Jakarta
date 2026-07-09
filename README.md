@@ -385,31 +385,10 @@ Menampilkan early stopping behavior di Phase 1:
 ### Dataset
 - [AQICN (Air Quality Index China Network)](https://aqicn.org/)
 
-### Publikasi & Methods
-- Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735-1780.
-- Bergstra, J., et al. (2013). Algorithms for hyper-parameter optimization. NIPS.
-- Diebold, F. X., & Mariano, R. S. (2002). Comparing predictive accuracy. Journal of Business & Economic Statistics, 20(1).
-
 ### Tools
 - TensorFlow/Keras: Deep learning
 - Scikit-learn: Preprocessing & metrics
 - Bayesian-optimization: Hyperparameter tuning
-- Statsmodels: Autocorrelation & statistical tests
-
----
-
-## 📞 Contact & Support
-
-Untuk pertanyaan atau saran:
-- Issues: Buka issue di repository
-- Email: [Your email]
-- Discussion: Forum project page
-
----
-
-**Last Updated:** Oktober 2025  
-**Version:** 1.0  
-**License:** MIT (or your preferred license)
 
 ---
 
