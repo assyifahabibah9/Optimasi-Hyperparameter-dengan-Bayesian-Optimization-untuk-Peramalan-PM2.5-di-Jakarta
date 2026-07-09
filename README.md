@@ -1,15 +1,15 @@
 # Optimasi Long Short Term Memory menggunakan Bayesian Optimization untuk Meramalkan Konsentrasi PM2.5 di Jakarta
 
 ## 📋 Daftar Isi
-- [Ringkasan Proyek](#ringkasan-proyek)
-- [Dataset](#dataset)
-- [Metodologi](#metodologi)
-- [Struktur Notebook](#struktur-notebook)
-- [Hasil Utama](#hasil-utama)
-- [Instalasi & Setup](#instalasi--setup)
-- [Cara Menggunakan](#cara-menggunakan)
-- [Perbandingan Model](#perbandingan-model)
-- [Kesimpulan](#kesimpulan)
+- [Ringkasan Proyek](#-ringkasan-proyek)
+- [Dataset](#-dataset)
+- [Metodologi](#-metodologi)
+- [Struktur Notebook](#-struktur-notebook)
+- [Hasil Utama](#-hasil-utama)
+- [Instalasi & Setup](#-instalasi--setup)
+- [Cara Menggunakan](#-cara-menggunakan)
+- [Perbandingan Model](#-perbandingan-model)
+- [Kesimpulan](#-kesimpulan)
 
 ---
 
@@ -213,7 +213,7 @@ Bayesian-opt    >= 1.4.3
 SciPy           >= 1.11.0
 ```
 
-### Instalasi
+### Instalasi & Konfigurasi Environment
 ```bash
 # Clone atau download repository
 git clone <repository-url>
@@ -385,11 +385,31 @@ Menampilkan early stopping behavior di Phase 1:
 ### Dataset
 - [AQICN (Air Quality Index China Network)](https://aqicn.org/)
 
+### Publikasi & Methods
+- Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735-1780.
+- Bergstra, J., et al. (2013). Algorithms for hyper-parameter optimization. NIPS.
+- Diebold, F. X., & Mariano, R. S. (2002). Comparing predictive accuracy. Journal of Business & Economic Statistics, 20(1).
+
 ### Tools
 - TensorFlow/Keras: Deep learning
 - Scikit-learn: Preprocessing & metrics
 - Bayesian-optimization: Hyperparameter tuning
 - Statsmodels: Autocorrelation & statistical tests
+
+---
+
+## 📞 Contact & Support
+
+Untuk pertanyaan atau saran:
+- Issues: Buka issue di repository
+- Email: [Your email]
+- Discussion: Forum project page
+
+---
+
+**Last Updated:** Oktober 2025  
+**Version:** 1.0  
+**License:** MIT (or your preferred license)
 
 ---
 
